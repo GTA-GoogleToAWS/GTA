@@ -11,6 +11,7 @@
 [🎥 **시연 영상**](https://www.youtube.com/watch?v=vzg01HwdsLw) • [📊 **발표자료**](https://github.com/user-attachments/files/21451998/02._4.pdf)
 
 </div>
+
 ## 아키텍처
 
 <img width="100%" alt="project2_architecture drawio" src="https://github.com/user-attachments/assets/cce9d1f7-d2a7-41b0-a3a8-3b0058b23946" />
