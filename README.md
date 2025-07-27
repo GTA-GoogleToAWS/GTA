@@ -98,7 +98,7 @@
 
 <div align="center">
 
-**🎬 [시연 영상 보기](https://youtu.be/lxeubdhbO1k?si=wts_6042jry7hWL1)**
+**🎬 [시연 영상 보기](https://www.youtube.com/watch?v=vzg01HwdsLw)**
 
 *Made with ❤️ by Team GTA*
 
