@@ -8,13 +8,14 @@
 ![DR](https://img.shields.io/badge/DR-Active--Passive-red?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-Python-blue?style=flat-square)
 
-[🎥 **시연 영상**](https://youtu.be/lxeubdhbO1k?si=wts_6042jry7hWL1) • [📊 **발표자료**](./docs/presentation.pdf)
+[🎥 **시연 영상**](https://www.youtube.com/watch?v=vzg01HwdsLw) • [📊 **발표자료**]([02. 발표자료_4팀(웹서비스를 위한 클라우드 아키텍처링).pdf](https://github.com/user-attachments/files/21451998/02._4.pdf)
+)
 
 </div>
 
 ## 📋 프로젝트 개요
 
-**Azure 대규모 장애(2024.7) 사건을 계기로 멀티 클라우드 DR 시스템 구축**
+##Azure 대규모 장애(2024.7) 사건을 계기로 멀티 클라우드 DR 시스템 구축
 
 - **목표**: 99.9% 가용성, RTO 15분, RPO 1분
 - **구성**: GCP(Primary) + AWS(DR Site) + 자동 Failover
@@ -22,16 +23,11 @@
 
 ## 🏗️ 아키텍처
 
-```
-Route 53 DNS Failover
-        │
-   ┌────┴────┐
-GCP(Active) AWS(Passive)
-   Primary    DR Site
-```
+<img width="2570" height="2011" alt="project2_architecture drawio" src="https://github.com/user-attachments/assets/cce9d1f7-d2a7-41b0-a3a8-3b0058b23946" />
+
 
 **핵심 구성요소**
-- **DNS**: Route 53 Health Check 기반 자동 전환
+- **DNS**: Route 53 Health Check 기반 GCP -> AWS 자동 전환
 - **Network**: GCP HA VPN ↔ AWS Site-to-Site VPN
 - **Security**: Cloud Armor + AWS WAF 이중 보안
 - **DB**: MySQL + Redis 실시간 동기화
@@ -94,6 +90,13 @@ flask_app-main/
 - **최윤하**: 팀장, AWS 인프라, VPN 연결
 - **백지영**: GCP 인프라, 모니터링
 - **한승규**: GCP 구축, Lambda, DMS
+
+## 👥 팀원 소개
+
+|           이충민           |           최윤하           |           한승규           |           백지영           |
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+|     <img src="https://github.com/user-attachments/assets/baa1e756-2962-4b99-9cd7-5ad1f2944437" width="120px;" alt=""/>      |      <img src="https://github.com/user-attachments/assets/2f605565-1b76-4a79-a5e8-01f3680d9e8e" width="120px;" alt=""/>      |      <img src="https://github.com/user-attachments/assets/88ea13ff-4e2a-4a08-a8ea-04d5b549e730" width="120px;" alt=""/>      |      <img src="https://github.com/user-attachments/assets/3a2b1e6b-3f8c-4c7a-8652-9f15a9f1855e" width="120px;" alt=""/>      |
+|                            코드 개발, AWS 3-tier, DR 시스템                           |                            팀장, AWS 인프라, VPN 연결                         |                            GCP 구축, Lambda, DMS                         |                            GCP 인프라, 모니터링                           |
 
 ## 🎯 활용 방안
 
