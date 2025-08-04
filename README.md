@@ -161,7 +161,7 @@ Team GTA (4명)
       <img src="https://github.com/user-attachments/assets/baa1e756-2962-4b99-9cd7-5ad1f2944437" width="180px;" height="220px;" style="object-fit: cover; border-radius: 8px;" alt="이충민"/>
       <br /><br />
       <h3><b>이충민</b></h3>
-      <p><b>🔧 코드 담당</b></p>
+      <p><b>🔧 코드 + AWS </b></p>
       <hr style="width: 80%; margin: 10px auto;">
       <p>📧 <code>leecm2468@gmail.com</code></p>
       <ul style="text-align: left; list-style: none; padding-left: 0;">
@@ -187,7 +187,7 @@ Team GTA (4명)
       <img src="https://github.com/user-attachments/assets/5382f4e2-1fd5-4f05-bb8a-3d1c8b21e4e8" width="180px;" height="220px;" style="object-fit: cover; border-radius: 8px;" alt="한승규"/>
       <br /><br />
       <h3><b>한승규</b></h3>
-      <p><b>☁️ GCP 전문</b></p>
+      <p><b>☁️ GCP </b></p>
       <hr style="width: 80%; margin: 10px auto;">
       <p>📧 <code>hanseungggyu@gmail.com</code></p>
       <ul style="text-align: left; list-style: none; padding-left: 0;">
@@ -200,7 +200,7 @@ Team GTA (4명)
       <img src="https://github.com/user-attachments/assets/50414a89-bae0-4ba6-b85a-933b6f7e3379" width="180px;" height="220px;" style="object-fit: cover; border-radius: 8px;" alt="백지영"/>
       <br /><br />
       <h3><b>백지영</b></h3>
-      <p><b>☁️ GCP 전문</b></p>
+      <p><b>☁️ GCP </b></p>
       <hr style="width: 80%; margin: 10px auto;">
       <p>📧 <code>jiyeong627@gmail.com</code></p>
       <ul style="text-align: left; list-style: none; padding-left: 0;">
