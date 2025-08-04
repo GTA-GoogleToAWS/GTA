@@ -192,7 +192,6 @@ Team GTA (4명)
       <p>📧 <code>hanseungggyu@gmail.com</code></p>
       <ul style="text-align: left; list-style: none; padding-left: 0;">
         <li>• GCP 3-tier 구축</li>
-        <li>• GCP Monitoring</li>
         <li>• Lambda 및 DR</li>
         <li>• AWS DMS</li>
       </ul>
