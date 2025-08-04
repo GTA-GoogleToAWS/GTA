@@ -157,46 +157,60 @@
 Team GTA (4명)
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/baa1e756-2962-4b99-9cd7-5ad1f2944437" width="150px;" alt="이충민"/>
-      <br />
-      <b>이충민</b><br />
-      <sub><b>코드 담당</b></sub><br />
-      <sub>📧 leecm2468@gmail.com</sub><br />
-      <sub>AWS 3-tier 구축</sub><br />
-      <sub>DR 시스템</sub><br />
-      <sub>CloudFront, WAF</sub>
+    <td align="center" style="padding: 20px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/baa1e756-2962-4b99-9cd7-5ad1f2944437" width="180px;" height="220px;" style="object-fit: cover; border-radius: 8px;" alt="이충민"/>
+      <br /><br />
+      <h3><b>이충민</b></h3>
+      <p><b>🔧 코드 담당</b></p>
+      <hr style="width: 80%; margin: 10px auto;">
+      <p>📧 <code>leecm2468@gmail.com</code></p>
+      <ul style="text-align: left; list-style: none; padding-left: 0;">
+        <li>• AWS 3-tier 구축</li>
+        <li>• DR 시스템</li>
+        <li>• CloudFront, WAF</li>
+      </ul>
     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/1052d0df-d0bb-45c3-94f7-ab9bda678ed0" width="150px;" alt="최윤하"/>
-      <br />
-      <b>최윤하</b><br />
-      <sub><b>팀장</b></sub><br />
-      <sub>📧 choiyunha531@gmail.com</sub><br />
-      <sub>AWS 3-tier 구축</sub><br />
-      <sub>GCP CDN, Armor</sub><br />
-      <sub>VPN 터널링</sub>
+    <td align="center" style="padding: 20px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/1052d0df-d0bb-45c3-94f7-ab9bda678ed0" width="180px;" height="220px;" style="object-fit: cover; border-radius: 8px;" alt="최윤하"/>
+      <br /><br />
+      <h3><b>최윤하</b></h3>
+      <p><b>👑 팀장</b></p>
+      <hr style="width: 80%; margin: 10px auto;">
+      <p>📧 <code>choiyunha531@gmail.com</code></p>
+      <ul style="text-align: left; list-style: none; padding-left: 0;">
+        <li>• AWS 3-tier 구축</li>
+        <li>• GCP CDN, Armor</li>
+        <li>• VPN 터널링</li>
+      </ul>
     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/5382f4e2-1fd5-4f05-bb8a-3d1c8b21e4e8" width="150px;" alt="한승규"/>
-      <br />
-      <b>한승규</b><br />
-      <sub><b>GCP 전문</b></sub><br />
-      <sub>📧 hanseungggyu@gmail.com</sub><br />
-      <sub>GCP 3-tier 구축</sub><br />
-      <sub>GCP Monitoring</sub><br />
-      <sub>Lambda 및 DR</sub><br />
-      <sub>AWS DMS</sub>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/5382f4e2-1fd5-4f05-bb8a-3d1c8b21e4e8" width="180px;" height="220px;" style="object-fit: cover; border-radius: 8px;" alt="한승규"/>
+      <br /><br />
+      <h3><b>한승규</b></h3>
+      <p><b>☁️ GCP 전문</b></p>
+      <hr style="width: 80%; margin: 10px auto;">
+      <p>📧 <code>hanseungggyu@gmail.com</code></p>
+      <ul style="text-align: left; list-style: none; padding-left: 0;">
+        <li>• GCP 3-tier 구축</li>
+        <li>• GCP Monitoring</li>
+        <li>• Lambda 및 DR</li>
+        <li>• AWS DMS</li>
+      </ul>
     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/50414a89-bae0-4ba6-b85a-933b6f7e3379" width="150px;" alt="백지영"/>
-      <br />
-      <b>백지영</b><br />
-      <sub><b>GCP 전문</b></sub><br />
-      <sub>📧 jiyeong627@gmail.com</sub><br />
-      <sub>GCP 3-tier 구축</sub><br />
-      <sub>GCP Monitoring</sub><br />
-      <sub>AWS Lambda</sub>
+    <td align="center" style="padding: 20px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/50414a89-bae0-4ba6-b85a-933b6f7e3379" width="180px;" height="220px;" style="object-fit: cover; border-radius: 8px;" alt="백지영"/>
+      <br /><br />
+      <h3><b>백지영</b></h3>
+      <p><b>☁️ GCP 전문</b></p>
+      <hr style="width: 80%; margin: 10px auto;">
+      <p>📧 <code>jiyeong627@gmail.com</code></p>
+      <ul style="text-align: left; list-style: none; padding-left: 0;">
+        <li>• GCP 3-tier 구축</li>
+        <li>• GCP Monitoring</li>
+        <li>• AWS Lambda</li>
+      </ul>
     </td>
   </tr>
 </table>
