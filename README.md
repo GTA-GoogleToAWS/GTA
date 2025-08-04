@@ -6,7 +6,7 @@
 ![DR](https://img.shields.io/badge/DR-Active--Passive-red?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-Python-blue?style=flat-square)
 
-[🎥 **시연 영상**](https://www.youtube.com/watch?v=vzg01HwdsLw) • [📊 **발표자료**](https://github.com/user-attachments/files/21451998/02._4.pdf)
+[🎥 **시연 영상**](https://youtu.be/vzg01HwdsLw?si=u62fNDyI8QI4hYcR) • [📊 **발표자료**](https://github.com/user-attachments/files/21451998/02._4.pdf)
 
 </div>
 
@@ -203,6 +203,6 @@ Team GTA (4명)
 
 <div align="center">
 
-**🎬 [시연 영상 보기](https://www.youtube.com/watch?v=vzg01HwdsLw)**
+**🎬 [시연 영상 보기](https://youtu.be/vzg01HwdsLw?si=u62fNDyI8QI4hYcR)**
 
 *Made with ❤️ by Team GTA*
