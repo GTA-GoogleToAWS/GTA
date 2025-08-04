@@ -158,7 +158,10 @@
 
 |           이충민           |           최윤하           |           한승규           |           백지영           |
 | :------------------------: | :------------------------: | :------------------------: | :------------------------: |
-| <img src="https://github.com/user-attachments/assets/baa1e756-2962-4b99-9cd7-5ad1f2944437" width="120px;" alt=""/> | <img src="https://github.com/user-attachments/assets/2f605565-1b76-4a79-a5e8-01f3680d9e8e" width="120px;" alt=""/> | <img src="https://github.com/user-attachments/assets/88ea13ff-4e2a-4a08-a8ea-04d5b549e730" width="120px;" alt=""/> | <img src="https://github.com/user-attachments/assets/3a2b1e6b-3f8c-4c7a-8652-9f15a9f1855e" width="120px;" alt=""/> |
+| <img src="https://github.com/user-attachments/assets/baa1e756-2962-4b99-9cd7-5ad1f2944437" width="120px;" alt=""/> | ![최윤하](https://github.com/user-attachments/assets/1052d0df-d0bb-45c3-94f7-ab9bda678ed0)
+ | ![한승규](https://github.com/user-attachments/assets/5382f4e2-1fd5-4f05-bb8a-3d1c8b21e4e8)
+ | ![백지영](https://github.com/user-attachments/assets/50414a89-bae0-4ba6-b85a-933b6f7e3379)
+ |
 | **코드 담당** | **팀장** | **GCP 전문** | **GCP 전문** |
 | AWS 3-tier 구축 | AWS 3-tier 구축 | GCP 3-tier 구축 | GCP 3-tier 구축 |
 | DR 시스템 | GCP CDN, Armor | GCP Monitoring | GCP Monitoring |
