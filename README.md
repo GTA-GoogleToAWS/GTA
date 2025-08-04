@@ -183,8 +183,6 @@ Team GTA (4명)
         <li>• VPN 터널링</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 20px; border: 1px solid #ddd;">
       <img src="https://github.com/user-attachments/assets/5382f4e2-1fd5-4f05-bb8a-3d1c8b21e4e8" width="180px;" height="220px;" style="object-fit: cover; border-radius: 8px;" alt="한승규"/>
       <br /><br />
@@ -216,7 +214,6 @@ Team GTA (4명)
 </table>
 
 <div align="center">
-
 **🎬 [시연 영상 보기](https://youtu.be/wrxArsUJg5k)**
 
 *Made with ❤️ by Team GTA*
